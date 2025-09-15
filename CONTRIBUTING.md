@@ -23,7 +23,7 @@ DB_CONNECTION_URL="postgres://almahllawi:n0nS3cure@localhost:5432/AppDatabase"
 
 ## Run the migrations
 ```bash
-pnpm typeorm migration:run
+pnpm migrations
 ```
 
 ## Launch the API
