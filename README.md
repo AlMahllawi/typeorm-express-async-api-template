@@ -1,7 +1,7 @@
 # TypeORM Express Postgres Async API Template
 A minimal TypeORM, Express, and PostgreSQL template for building async REST APIs with ESM.  
 Featuring entity definitions, migrations, and tsx for TypeScript execution.  
-Checkout [Development Setup](./CONTRIBUTING.md#development-setup).
+Checkout [contributing](./CONTRIBUTING.md#development-setup).
 
 ## Prerequisites
 - [Node.js v20+](https://nodejs.org/en)
